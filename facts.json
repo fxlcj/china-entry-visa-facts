@@ -1,0 +1,509 @@
+{
+  "dataset": "China Entry, Visa & Border Rules",
+  "publisher": "Jiu's Sharing Station",
+  "homepage": "https://jiunotes.top/en/",
+  "version": "1.0",
+  "updated": "2026-11-14",
+  "license": "CC BY 4.0",
+  "citation": "Jiu's Sharing Station, \"China Entry, Visa & Border Rules\", checked 2026-11-14, https://jiunotes.top/en/",
+  "note": "Every figure carries its official source URL and the date it was re-checked. Copy the check date with the number.",
+  "count": 31,
+  "facts": [
+    {
+      "id": 1,
+      "topic": "entry",
+      "claim_en": "China offers a 240-hour (10-day) visa-free transit for eligible nationalities passing through to a third country or region, entering via any of 65 open ports across 24 provinces.",
+      "claim_zh": "符合条件的国家人员过境前往第三国（地区），可从 24 个省份 65 个开放口岸中任一口岸免签入境，停留不超过 240 小时（10 天）。",
+      "value": "240",
+      "unit": "hours (10 days)",
+      "figure": "240 hours (10 days)",
+      "source": {
+        "name": "National Immigration Administration (国家移民管理局)",
+        "url": "https://www.nia.gov.cn/n741440/n741577/c1731205/content.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 2,
+      "topic": "entry",
+      "claim_en": "All open ports in China offer a 24-hour visa-free transit for passengers transiting to a third country who remain within the port area.",
+      "claim_zh": "中国所有对外开放口岸对过境前往第三国、在口岸限定区域内停留不超过 24 小时的人员实行 24 小时过境免签。",
+      "value": "24",
+      "unit": "hours",
+      "figure": "24 hours",
+      "source": {
+        "name": "National Immigration Administration (国家移民管理局)",
+        "url": "https://s.nia.gov.cn/mps/zcjd/202506/t20250550_1010.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 3,
+      "topic": "entry",
+      "claim_en": "China's 240-hour (10-day) visa-free transit applies to citizens of 57 countries (raised from 55 on 20 August 2026, when Kyrgyzstan and Vietnam were added). Travellers enter through any of 65 open ports with a confirmed onward ticket to a third country or region.",
+      "claim_zh": "中国 240 小时（10 天）过境免签政策适用于 57 个国家（2026 年 8 月 20 日起新增吉尔吉斯斯坦、越南），须持确定日期及行程的前往第三国或地区的联程客票，可从 65 个对外开放口岸入境。",
+      "value": "57 / 65",
+      "unit": "countries / open ports",
+      "figure": "57 / 65 countries / open ports",
+      "source": {
+        "name": "National Immigration Administration (国家移民管理局)",
+        "url": "https://www.nia.gov.cn/n741440/n741542/c1796294/content.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 4,
+      "topic": "entry",
+      "claim_en": "China's departure tax refund returns 11% of the invoice amount for goods subject to the 13% VAT rate and 8% for goods at the 9% rate; the refund agent deducts a 2% handling fee.",
+      "claim_zh": "境外旅客离境退税：适用 13% 增值税税率的物品退税率 11%，适用 9% 税率的退 8%；退税代理机构按发票金额收取 2% 手续费。",
+      "value": "11% / 8% / 2%",
+      "unit": "refund rate / fee rate",
+      "figure": "11% / 8% / 2% refund rate / fee rate",
+      "source": {
+        "name": "State Taxation Administration (国家税务总局)",
+        "url": "https://fgk.chinatax.gov.cn/zcfgk/c100012/c5194548/content.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 5,
+      "topic": "entry",
+      "claim_en": "The minimum spend for a departure tax refund is CNY 200 per person per day at one refund store (lowered from CNY 500 on 26 April 2025), and the goods must leave China within 90 days of purchase.",
+      "claim_zh": "离境退税起退金额为同一旅客同一日在同一退税商店满 200 元（2025 年 4 月 26 日起由 500 元下调为 200 元），且须在购买后 90 天内携带出境。",
+      "value": "200 / 90",
+      "unit": "CNY / days",
+      "figure": "200 / 90 CNY / days",
+      "source": {
+        "name": "State Taxation Administration (国家税务总局)",
+        "url": "https://jiangxi.chinatax.gov.cn/art/2026/2/25/art_31172_1666768.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 6,
+      "topic": "entry",
+      "claim_en": "Departure tax refunds are paid in RMB; cash refunds are capped at CNY 20,000 and anything above must be transferred to a bank account. An eligible 'overseas visitor' is a foreign or Hong Kong/Macao/Taiwan traveller who has stayed in mainland China for no more than 183 consecutive days.",
+      "claim_zh": "离境退税以人民币退还：现金退税上限 2 万元，超过部分须银行转账。可退税的「境外旅客」指在中国境内连续居住不超过 183 天的外国人和港澳台同胞。",
+      "value": "20,000 / 183",
+      "unit": "CNY / days",
+      "figure": "20,000 / 183 CNY / days",
+      "source": {
+        "name": "State Taxation Administration (国家税务总局)",
+        "url": "https://jiangxi.chinatax.gov.cn/art/2026/2/25/art_31172_1666768.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 7,
+      "topic": "entry",
+      "claim_en": "Chinese visa fees are set per nationality and number of entries on a reciprocity basis, plus a separate service fee charged by the visa application centre. A temporary reduction runs to 31 December 2026 — for example USD 125 for US citizens, CAD 50 for Canadian citizens and CHF 45 for Schengen citizens.",
+      "claim_zh": "来华签证费按国籍与入境次数对等收取，签证申请中心另收服务费。阶段性调减政策执行至 2026 年 12 月 31 日，例如美国公民 125 美元、加拿大公民 50 加元、申根国公民 45 瑞士法郎。",
+      "value": "125 USD / 50 CAD / 45 CHF",
+      "unit": "visa fee (temporary reduction)",
+      "figure": "125 USD / 50 CAD / 45 CHF visa fee (temporary reduction)",
+      "source": {
+        "name": "Chinese Visa Application Service Center (中国签证申请服务中心)",
+        "url": "https://www.visaforchina.cn/YOW4_ZH/qianzhengyewu/jichuzhishi/feiyongbiaozhunjishixian"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2026-11-30",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 8,
+      "topic": "entry",
+      "claim_en": "Hainan offers 30-day visa-free entry to ordinary-passport holders from 61 countries (raised from 59 on 20 August 2026). Stays are limited to the administrative area of Hainan Province.",
+      "claim_zh": "海南对 61 个国家持普通护照人员实施 30 天入境免签（2026 年 8 月 20 日起增至 61 国），停留范围限于海南省行政区域。",
+      "value": "61 / 30",
+      "unit": "countries / days",
+      "figure": "61 / 30 countries / days",
+      "source": {
+        "name": "National Immigration Administration (国家移民管理局)",
+        "url": "https://www.nia.gov.cn/n741440/n741542/c1796294/content.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 9,
+      "topic": "entry",
+      "claim_en": "China's unilateral visa-free programme lets ordinary-passport holders from 50 countries enter for up to 30 days without a visa — separate from the 240-hour transit and Hainan schemes.",
+      "claim_zh": "中国单方面免签政策覆盖 50 个国家，持普通护照可免签入境并停留不超过 30 天，与 240 小时过境免签、海南 30 天免签是并行的三套政策。",
+      "value": "50 / 30",
+      "unit": "countries / days",
+      "figure": "50 / 30 countries / days",
+      "source": {
+        "name": "The State Council Information Office via english.www.gov.cn",
+        "url": "https://english.www.gov.cn/news/202608/20/content_WS6a866e4fc6d00ca5f9a0cb76.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 10,
+      "topic": "entry",
+      "claim_en": "In the first half of 2026 China recorded 369 million inbound and outbound border crossings, up 10.8% year on year. Visa-free foreign entries reached 17.8 million, up 30.6%, accounting for more than three-quarters of all foreign arrivals.",
+      "claim_zh": "2026 年上半年中国出入境人员达 3.69 亿人次，同比增长 10.8%；免签入境外国人 1780 万人次，同比增长 30.6%，占外国人入境总数的四分之三以上。",
+      "value": "369 million / 17.8 million",
+      "unit": "border crossings / visa-free entries",
+      "figure": "369 million / 17.8 million border crossings / visa-free entries",
+      "source": {
+        "name": "National Immigration Administration via english.www.gov.cn",
+        "url": "https://english.www.gov.cn/news/202608/20/content_WS6a866e4fc6d00ca5f9a0cb76.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 11,
+      "topic": "entry",
+      "claim_en": "China received about 132 million inbound tourist visits in 2024, with inbound tourism spending close to USD 100 billion.",
+      "claim_zh": "2024 年中国入境旅游人次约 1.32 亿，入境旅游花费接近 1000 亿美元。",
+      "value": "132 million / USD 100 billion",
+      "unit": "visits / spend",
+      "figure": "132 million / USD 100 billion visits / spend",
+      "source": {
+        "name": "Ministry of Culture and Tourism (文化和旅游部)",
+        "url": "https://www.mct.gov.cn/whzx/whyw/202503/t20250311_958791.htm"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 12,
+      "topic": "entry",
+      "claim_en": "China operates 97 Chinese Visa Application Service Centres in 57 countries and regions, which handle more than 70% of all visa applications for China worldwide.",
+      "claim_zh": "中国在 57 个国家和地区设有 97 家中国签证申请服务中心，承担全球 70% 以上的来华签证申请。",
+      "value": "97",
+      "unit": "visa centres",
+      "figure": "97 visa centres",
+      "source": {
+        "name": "Service Center for Party and Government Institutions and Overseas Missions, Ministry of Foreign Affairs",
+        "url": "https://www.wjbfwzx.com/ywly/zgqzsqfwzxmjzy/2025/1996.shtml"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 13,
+      "topic": "entry",
+      "claim_en": "China issues 12 categories of ordinary visa, each marked with a letter on the visa: L for tourism (group L for tour groups), M for trade and commercial activity, F for exchanges, visits and study tours, G for transit, Z for work, X1/X2 for long/short-term study, Q1/Q2 and S1/S2 for family visits, J1/J2 for journalists, C for transport crew and D for permanent residence.",
+      "claim_zh": "中国普通签证分 12 类，签证上标注相应字母：L 字（旅游，团体旅游可签团体 L）、M 字（商业贸易）、F 字（交流、访问、考察）、G 字（过境）、Z 字（工作）、X1/X2 字（长期/短期学习）、Q1/Q2 与 S1/S2 字（家庭团聚与探亲）、J1/J2 字（记者）、C 字（乘务）、D 字（永久居留）。",
+      "value": "12",
+      "unit": "visa categories",
+      "figure": "12 visa categories",
+      "source": {
+        "name": "National Immigration Administration (Regulations on the Administration of the Entry and Exit of Foreigners, Art. 6)",
+        "url": "https://www.nia.gov.cn/Enquiry/publish/showQuestion.jsp?MZ=X4ZGmwtnWoiHBbWzv3YRRQ%3D%3D"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-02-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 14,
+      "topic": "entry",
+      "claim_en": "Since 20 November 2025 foreign nationals must file the China Digital Arrival Card (CDAC) online before arriving, via the NIA website, its government service platform, the \"NIA 12367\" app, WeChat/Alipay mini programs, or by scanning the on-site QR code. The official form is at https://s.nia.gov.cn/ArrivalCardFillingPC/ and is completely free — any site charging a fee is a scam. A paper arrival card remains available at ports for those who cannot file online.",
+      "claim_zh": "自 2025 年 11 月 20 日起，外国人入境前需网上填报「外国人入境卡」（电子入境卡 CDAC），渠道包括国家移民管理局政府网站、政务服务平台、\"移民局12367\" APP、微信/支付宝小程序或扫描口岸填报码。官方填报网址 https://s.nia.gov.cn/ArrivalCardFillingPC/ ，完全免费，任何收费网站均为诈骗。不具备网上填报条件的，仍可在口岸现场填写纸质入境卡。",
+      "value": "2025-11-20",
+      "unit": "effective date",
+      "figure": "2025-11-20 effective date",
+      "source": {
+        "name": "National Immigration Administration (国家移民管理局)",
+        "url": "https://s.nia.gov.cn/mps/zcjd/202507/t20250750_1010.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 15,
+      "topic": "entry",
+      "claim_en": "Seven categories are exempt from the China Digital Arrival Card: holders of a Foreign Permanent Resident ID Card, holders of a non-Chinese Mainland Travel Permit for Hong Kong/Macao Residents, group-visa or group-visa-free travellers, 24-hour direct transit passengers who stay within the port area, cruise passengers returning on the same ship, users of automated fast lanes, and foreign crew of transport vehicles.",
+      "claim_zh": "可免于填报外国人入境卡的 7 种情形：持外国人永久居留身份证、持港澳居民来往内地通行证（非中国籍）、持团体签证或符合团体免签入境、24 小时直接过境不离开口岸限定区域、乘坐邮轮入出境并随原邮轮返回、经快捷通道入境、出入境交通运输工具的外国籍员工。",
+      "value": "7 exemptions",
+      "unit": "categories",
+      "figure": "7 exemptions categories",
+      "source": {
+        "name": "Chinese Embassy in Trinidad and Tobago (中国驻特立尼达和多巴哥大使馆)",
+        "url": "https://tt.china-embassy.gov.cn/lsfw/ZYTZ/202512/t20251202_11765289.htm"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 16,
+      "topic": "entry",
+      "claim_en": "In 2025 China recorded 697 million inbound and outbound border crossings, up 14.2% year on year and a record high, including 82.035 million foreign nationals (up 26.4%). Visa-free entries by foreigners reached 30.08 million, accounting for 73.1% of all foreign arrivals and up 49.5%. China currently has full mutual visa exemption with 29 countries and unilateral visa-free entry for 50 countries.",
+      "claim_zh": "2025 年全国移民管理机构共查验出入境人员 6.97 亿人次，同比上升 14.2%，创历史新高；其中外国人 8203.5 万人次，同比上升 26.4%。免签入境外国人 3008 万人次，占入境外国人 73.1%，同比上升 49.5%。中国已与 29 个国家实现全面互免签证，对 50 个国家实行单方面免签。",
+      "value": "697 million",
+      "unit": "border crossings 2025",
+      "figure": "697 million border crossings 2025",
+      "source": {
+        "name": "National Immigration Administration (国家移民管理局)",
+        "url": "https://nia.gov.cn/n741435/n741532/c1785474/content.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 17,
+      "topic": "entry",
+      "claim_en": "China lets ordinary-passport holders of 79 countries enter visa-free through any of its open ports of entry — 29 countries under full mutual visa-exemption agreements and 50 under its unilateral visa-free policy. Together the two schemes cover the whole country, not just a designated region.",
+      "claim_zh": "中国对 79 个国家普通护照持有者实施免签入境（29 国双边全面互免 + 50 国单方面免签），适用全国所有对外开放口岸，不限于特定区域。",
+      "value": "79 countries (29 mutual + 50 unilateral)",
+      "unit": "countries",
+      "figure": "79 countries (29 mutual + 50 unilateral) countries",
+      "source": {
+        "name": "Hainan Provincial People's Government — Visa-Free Entry Policies of Hainan Province (海南省人民政府)",
+        "url": "https://en.hainan.gov.cn/englishsite/gsihPDF/202607/4c29575d0cea4659bdd7f5d15f924bb3/files/5218a123048a4784bd9fec15e5131ee6.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 18,
+      "topic": "entry",
+      "claim_en": "China's unilateral visa-free list (50 countries, as published by the National Immigration Administration on 17 February 2026) breaks down by region as: Europe 35, Asia 7, the Americas 6 and Oceania 2. The Asian seven are Brunei, South Korea, Japan, Saudi Arabia, Oman, Kuwait and Bahrain; the American six are Brazil, Argentina, Chile, Peru, Uruguay and Canada; Oceania is Australia and New Zealand. Europe's 35 include Russia, the United Kingdom and Sweden.",
+      "claim_zh": "中国单方面免签名单共 50 国（国家移民管理局 2026 年 2 月 17 日公布）：欧洲 35 国、亚洲 7 国（文莱、韩国、日本、沙特、阿曼、科威特、巴林）、美洲 6 国（巴西、阿根廷、智利、秘鲁、乌拉圭、加拿大）、大洋洲 2 国（澳大利亚、新西兰）。欧洲 35 国含俄罗斯、英国、瑞典。",
+      "value": "Europe 35 / Asia 7 / Americas 6 / Oceania 2",
+      "unit": "countries by region",
+      "figure": "Europe 35 / Asia 7 / Americas 6 / Oceania 2 countries by region",
+      "source": {
+        "name": "National Immigration Administration — Unilateral Visa-Free Country List (国家移民管理局·单方面免签国家名单)",
+        "url": "https://www.nia.gov.cn/n741440/n741577/c1731154/content.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 19,
+      "topic": "entry",
+      "claim_en": "Unilateral visa-free entry allows a stay of up to 30 days for business, tourism, visiting relatives or friends, exchange visits and transit. The 30 days are counted from 00:00 on the day after entry, not from the arrival time. The policy applies at every land, sea and air port open to foreigners, and travellers may start from any country outside China, not only their own.",
+      "claim_zh": "单方面免签停留不超过 30 天，事由限于经商、旅游观光、探亲访友、交流访问、过境；停留期自入境次日零时起算，非按抵达时刻计算；适用于所有对外国人开放的海陆空口岸，且可从中国境外任何国家（地区）出发。",
+      "value": "30 days (from 00:00 next day)",
+      "unit": "days",
+      "figure": "30 days (from 00:00 next day) days",
+      "source": {
+        "name": "National Immigration Administration — Unilateral Visa-Free Country List (国家移民管理局·单方面免签国家名单)",
+        "url": "https://www.nia.gov.cn/n741440/n741577/c1731154/content.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 20,
+      "topic": "entry",
+      "claim_en": "China has full mutual visa-exemption agreements with 29 countries, covering ordinary passports: Albania, the United Arab Emirates, Azerbaijan, Antigua and Barbuda, Barbados, the Bahamas, Belarus, Bosnia and Herzegovina, Dominica, Ecuador, Fiji, Grenada, Georgia, Kazakhstan, Qatar, Malaysia, the Maldives, Mauritius, Samoa, Serbia, Seychelles, San Marino, Suriname, Solomon Islands, Thailand, Tonga, Uzbekistan, Singapore and Armenia. The permitted length of stay in each direction is set by the bilateral agreement, and entry is allowed at any open port nationwide.",
+      "claim_zh": "中国与 29 国缔结全面互免签证协定、适用普通护照：阿尔巴尼亚、阿联酋、阿塞拜疆、安提瓜和巴布达、巴巴多斯、巴哈马、白俄罗斯、波黑、多米尼克、厄瓜多尔、斐济、格林纳达、格鲁吉亚、哈萨克斯坦、卡塔尔、马来西亚、马尔代夫、毛里求斯、萨摩亚、塞尔维亚、塞舌尔、圣马力诺、苏里南、所罗门群岛、泰国、汤加、乌兹别克斯坦、新加坡、亚美尼亚。停留期按双边协定，可从全国任一开放口岸入境。",
+      "value": "29 countries mutual exemption",
+      "unit": "countries",
+      "figure": "29 countries mutual exemption countries",
+      "source": {
+        "name": "Sanya Tourism Development Bureau — Entry and Visa Guide (三亚市旅游发展局·出入境与签证)",
+        "url": "https://www.visitsanya.com/zh/%E8%A1%8C%E7%A8%8B%E8%A7%84%E5%88%92/%E6%97%85%E8%A1%8C%E6%8C%87%E5%8D%97/%E8%A1%8C%E5%89%8D%E5%87%86%E5%A4%87/%E5%87%BA%E5%85%A5%E5%A2%83%E4%B8%8E%E7%AD%BE%E8%AF%81"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 21,
+      "topic": "entry",
+      "claim_en": "China's 240-hour visa-free transit covers 57 countries, grouped by region as Europe 40, Asia 9, the Americas 6 and Oceania 2. Asia's nine are South Korea, Japan, Singapore, Brunei, the UAE, Qatar, Indonesia, Vietnam and Kyrgyzstan; the Americas six are the United States, Canada, Brazil, Mexico, Argentina and Chile; Oceania is Australia and New Zealand. Europe's 40 include Russia, the United Kingdom, Ukraine, Belarus and Norway.",
+      "claim_zh": "中国 240 小时过境免签适用 57 国：欧洲 40 国、亚洲 9 国（韩国、日本、新加坡、文莱、阿联酋、卡塔尔、印度尼西亚、越南、吉尔吉斯斯坦）、美洲 6 国（美国、加拿大、巴西、墨西哥、阿根廷、智利）、大洋洲 2 国（澳大利亚、新西兰）。欧洲 40 国含俄罗斯、英国、乌克兰、白俄罗斯、挪威。",
+      "value": "Europe 40 / Asia 9 / Americas 6 / Oceania 2",
+      "unit": "countries by region",
+      "figure": "Europe 40 / Asia 9 / Americas 6 / Oceania 2 countries by region",
+      "source": {
+        "name": "National Immigration Administration — Transit Visa-Free Policy (国家移民管理局·过境免签政策)",
+        "url": "https://www.nia.gov.cn/n741440/n741577/c1731205/content.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 22,
+      "topic": "entry",
+      "claim_en": "The 240-hour visa-free transit lets eligible travellers holding an ordinary passport and a confirmed onward ticket to a third country or region enter through any of 65 open ports across 24 provinces, and stay up to 10 days inside the designated area. Tourism, business, visits and family visits are allowed during the stay; work, study and news reporting still require a visa obtained before arrival.",
+      "claim_zh": "240 小时过境免签：持普通护照和确定日期及行程的前往第三国（地区）联程客票，可从 24 个省份 65 个开放口岸中的任一口岸入境，在规定区域内停留不超过 10 天。停留期间可旅游、商务、访问、探亲；工作、学习、新闻采访仍须来华前办妥签证。",
+      "value": "24 provinces / 65 ports / 10 days",
+      "unit": "provinces / ports / days",
+      "figure": "24 provinces / 65 ports / 10 days provinces / ports / days",
+      "source": {
+        "name": "National Immigration Administration — Transit Visa-Free Policy (国家移民管理局·过境免签政策)",
+        "url": "https://www.nia.gov.cn/n741440/n741577/c1731205/content.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 23,
+      "topic": "entry",
+      "claim_en": "Every one of China's open ports operates a 24-hour visa-free transit for nationals of any country. The traveller needs a valid international travel document and a confirmed onward ticket to a third country or region, must leave within 24 hours, and must stay inside the restricted area of the port. Leaving that area requires a temporary entry permit from the port's immigration inspection station.",
+      "claim_zh": "中国所有对外开放口岸对世界各国人员实施 24 小时过境免签：持有效国际旅行证件 + 定妥座位的联程客票，从中国过境前往第三国（地区），停留不超过 24 小时且不离开口岸限定区域即可免办签证；离开限定区域须向口岸边检机关申办临时入境许可。",
+      "value": "24 hours (all nationalities)",
+      "unit": "hours",
+      "figure": "24 hours (all nationalities) hours",
+      "source": {
+        "name": "National Immigration Administration — Transit Visa-Free Policy (国家移民管理局·过境免签政策)",
+        "url": "https://www.nia.gov.cn/n741440/n741577/c1731205/content.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 24,
+      "topic": "entry",
+      "claim_en": "China's unilateral visa-free policy is temporary and each country has an end date, so the list must be re-checked before booking. Per the Chinese consulate's visa-free FAQ, Brunei's exemption has no end date while the other 48 countries' policies currently run to 31 December 2026. The National Immigration Administration republishes the list whenever countries are added or dates are extended.",
+      "claim_zh": "中国单方面免签属临时政策、各国均设施行期限，出行前须复核名单。据中国驻外使领馆免签政策问答：文莱免签未设期限，其余 48 国政策目前施行至 2026 年 12 月 31 日。国家移民管理局在国家增列或延期时会重新公布名单。",
+      "value": "48 countries to 2026-12-31 / Brunei open-ended",
+      "unit": "policy end dates",
+      "figure": "48 countries to 2026-12-31 / Brunei open-ended policy end dates",
+      "source": {
+        "name": "Consulate-General of China in Vancouver — Visa-Free Policy FAQ (中国驻温哥华总领事馆·单方面免签政策常见问题解答)",
+        "url": "https://vancouver.china-consulate.gov.cn/chn/tztg/202602/t20260217_11860942.htm"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2026-11-30",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 26,
+      "topic": "entry",
+      "claim_en": "Hainan currently lets nationals of 88 countries enter visa-free, the most generous entry regime anywhere in China. That figure stacks the nationwide schemes (29 mutual + 50 unilateral) with Hainan's own 61-country 30-day policy and the 144-hour visa-free entry for foreign tour groups arriving from Hong Kong or Macao and the 15-day cruise visa-free policy.",
+      "claim_zh": "海南目前对 88 个国家实施免签入境，为全国最优。该数字由全国适用政策（29 国互免 + 50 国单方面）叠加海南本省 61 国 30 天免签、港澳外国旅游团 144 小时免签、邮轮 15 天免签等政策构成。",
+      "value": "88 countries visa-free to Hainan",
+      "unit": "countries",
+      "figure": "88 countries visa-free to Hainan countries",
+      "source": {
+        "name": "Sanya Tourism Development Bureau — Entry and Visa Guide (三亚市旅游发展局·出入境与签证)",
+        "url": "https://www.visitsanya.com/zh/%E8%A1%8C%E7%A8%8B%E8%A7%84%E5%88%92/%E6%97%85%E8%A1%8C%E6%8C%87%E5%8D%97/%E8%A1%8C%E5%89%8D%E5%87%86%E5%A4%87/%E5%87%BA%E5%85%A5%E5%A2%83%E4%B8%8E%E7%AD%BE%E8%AF%81"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 27,
+      "topic": "entry",
+      "claim_en": "Foreign tour groups arriving in Hainan from Hong Kong or Macao get 144 hours (6 days) visa-free. The group must have at least two members holding ordinary passports of countries with diplomatic relations with China, be organised by a travel agency legally registered in Hong Kong or Macao, and stay within the administrative area of Hainan Province.",
+      "claim_zh": "经香港、澳门的外国旅游团入境海南可享 144 小时（6 天）免签：团组须 2 人及以上、持与中国建交国家普通护照，由在香港或澳门合法注册的旅行社组团，活动范围限于海南省行政区域。",
+      "value": "144 hours (group of 2+)",
+      "unit": "hours",
+      "figure": "144 hours (group of 2+) hours",
+      "source": {
+        "name": "Sanya Tourism Development Bureau — Entry and Visa Guide (三亚市旅游发展局·出入境与签证)",
+        "url": "https://www.visitsanya.com/zh/%E8%A1%8C%E7%A8%8B%E8%A7%84%E5%88%92/%E6%97%85%E8%A1%8C%E6%8C%87%E5%8D%97/%E8%A1%8C%E5%89%8D%E5%87%86%E5%A4%87/%E5%87%BA%E5%85%A5%E5%A2%83%E4%B8%8E%E7%AD%BE%E8%AF%81"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 28,
+      "topic": "entry",
+      "claim_en": "Foreign tour groups arriving by cruise ship can enter China visa-free for up to 15 days. The group needs at least two members travelling on a cruise and received by a Chinese travel agency; entry is through the cruise ports of 13 designated cities including Shanghai, Shenzhen, Haikou and Sanya, and the permitted area covers the coastal provinces and municipalities plus Beijing.",
+      "claim_zh": "外国旅游团乘邮轮入境可享 15 天免签：团组须 2 人及以上、乘坐邮轮并由境内旅行社接待，从上海、深圳、海口、三亚等 13 个指定城市邮轮口岸入境，活动范围覆盖沿海省区市及北京市。",
+      "value": "15 days (cruise groups of 2+)",
+      "unit": "days",
+      "figure": "15 days (cruise groups of 2+) days",
+      "source": {
+        "name": "Sanya Tourism Development Bureau — Entry and Visa Guide (三亚市旅游发展局·出入境与签证)",
+        "url": "https://www.visitsanya.com/zh/%E8%A1%8C%E7%A8%8B%E8%A7%84%E5%88%92/%E6%97%85%E8%A1%8C%E6%8C%87%E5%8D%97/%E8%A1%8C%E5%89%8D%E5%87%86%E5%A4%87/%E5%87%BA%E5%85%A5%E5%A2%83%E4%B8%8E%E7%AD%BE%E8%AF%81"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 29,
+      "topic": "entry",
+      "claim_en": "Effective 20 August 2026, Kyrgyzstan and Vietnam were added to both the 240-hour visa-free transit and Hainan's 30-day visa-free entry, lifting the transit scheme to 57 countries and the Hainan scheme to 61. NIA Announcement No. 4 of 2026 set the change; the two countries' nationals may enter through any of the 65 open ports or Hainan's ports respectively.",
+      "claim_zh": "自 2026 年 8 月 20 日起，吉尔吉斯斯坦、越南同时加入 240 小时过境免签与海南 30 天免签，过境免签增至 57 国、海南免签增至 61 国（国家移民管理局 2026 年第 4 号公告）。两国公民可分别经 65 个开放口岸、海南省对外开放口岸入境。",
+      "value": "2026-08-20 effective date",
+      "unit": "date",
+      "figure": "2026-08-20 effective date date",
+      "source": {
+        "name": "National Immigration Administration — Announcement No. 4 of 2026 (国家移民管理局公告 2026 年第 4 号)",
+        "url": "https://www.nia.gov.cn/n897453/c1796264/content.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 30,
+      "topic": "entry",
+      "claim_en": "If you enter China on a visa and plan to work or live there, you must apply to convert it into a residence permit within 30 days of entry.",
+      "claim_zh": "持签证入境、计划在中国境内工作或生活的，应自入境之日起30日内按规定换成居留许可。",
+      "value": "30",
+      "unit": "days from entry",
+      "figure": "30 days from entry",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 31,
+      "topic": "entry",
+      "claim_en": "To extend a visa stay in China, apply at least 7 days before the visa’s stated stay period expires, to the entry-exit administration of the public security bureau at or above county level in the place of stay.",
+      "claim_zh": "需要延长签证停留期限的，应在签证注明的停留期限届满7日前，向停留地县级以上地方人民政府公安机关出入境管理部门申请。",
+      "value": "7",
+      "unit": "days before stay expires",
+      "figure": "7 days before stay expires",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 32,
+      "topic": "entry",
+      "claim_en": "A Chinese residence permit must be renewed at least 30 days before it expires; if you get a new passport or other registered details change, report the change to the entry-exit administration within 10 days.",
+      "claim_zh": "居留许可期满后继续停留的，需在有效期满前30日申请延期；更换新护照或登记事项变动的，需在10日内到公安机关出入境管理部门申请信息变更。",
+      "value": "30 / 10",
+      "unit": "days (renew / report change)",
+      "figure": "30 / 10 days (renew / report change)",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    }
+  ]
+}
