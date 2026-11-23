@@ -3,11 +3,11 @@
   "publisher": "Jiu's Sharing Station",
   "homepage": "https://jiunotes.top/en/",
   "version": "1.0",
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Entry, Visa & Border Rules\", checked 2026-11-14, https://jiunotes.top/en/",
   "note": "Every figure carries its official source URL and the date it was re-checked. Copy the check date with the number.",
-  "count": 32,
+  "count": 36,
   "facts": [
     {
       "id": 1,
@@ -521,6 +521,74 @@
       "recheck_by": "2027-02-22",
       "added_from": "db-backfill",
       "db_fact_id": 274
+    },
+    {
+      "id": 34,
+      "topic": "entry",
+      "claim_en": "The same visa-centre network publishes two different end dates for Russia's visa-free entry: its Chinese-language FAQ, issued 28 August 2026, says Russia's exemption runs to 14 September 2026 — a date that has already passed — while its English-language notice lists Russia as visa-free 'until 31st Dec, 2027'. Russian ordinary-passport holders should therefore confirm the current status with the border inspection authority or the nearest Chinese embassy before booking, because no single official page is internally consistent on this point.",
+      "claim_zh": "同一家中国签证申请服务中心的中英文公告，对俄罗斯免签到期日给出两个不同答案：中文版问答（2026-08-28 发布）称俄罗斯持普通护照人员免签「施行至 2026 年 9 月 14 日」（该日期已过），英文版公告则写 Russia 'until 31st Dec, 2027'。两处均为该中心自行发布、却互相矛盾，持俄罗斯普通护照者订票前应向边检机关或最近的中国使领馆复核现行状态。",
+      "value": "2026-09-14 (Chinese page) / 2027-12-31 (English page)",
+      "unit": "conflicting official end dates",
+      "figure": "2026-09-14 (Chinese page) / 2027-12-31 (English page) conflicting official end dates",
+      "source": {
+        "name": "Chinese Visa Application Service Center — Unilateral Visa-Free Policy FAQ (中国签证申请服务中心·单方面免签政策常见问题解答)",
+        "url": "https://visaforchina.cn/BOM4_ZH/tongzhigonggao/553118093870764079.html"
+      },
+      "checked_on": "2026-11-23",
+      "recheck_by": "2026-12-15",
+      "added_from": "db-backfill",
+      "db_fact_id": 302
+    },
+    {
+      "id": 35,
+      "topic": "entry",
+      "claim_en": "The 30-day visa-free stay is counted from the day after entry, not from the hour the traveller clears immigration: the visa-centre FAQ states the stay runs for 30 calendar days from the following day. A traveller who enters on 31 December 2026 — the last day of the current round of exemptions — therefore holds a stay that runs to 30 January 2027.",
+      "claim_zh": "免签入境的 30 天停留期自入境「次日」起算，而非入境当刻：签证中心问答明确「免签入境停留期限自入境次日起计算，可连续停留 30 个自然日」。因此在 2026 年 12 月 31 日（本轮免签的最后一天）入境者，停留期可至 2027 年 1 月 30 日。",
+      "value": "30 calendar days counted from the day after entry",
+      "unit": "stay calculation basis",
+      "figure": "30 calendar days counted from the day after entry stay calculation basis",
+      "source": {
+        "name": "Chinese Visa Application Service Center — Unilateral Visa-Free Policy FAQ (中国签证申请服务中心·单方面免签政策常见问题解答)",
+        "url": "https://visaforchina.cn/BOM4_ZH/tongzhigonggao/553118093870764079.html"
+      },
+      "checked_on": "2026-11-23",
+      "recheck_by": "2027-02-23",
+      "added_from": "db-backfill",
+      "db_fact_id": 303
+    },
+    {
+      "id": 36,
+      "topic": "entry",
+      "claim_en": "Attending a sports event, an exhibition or a summer/winter study camp qualifies for visa-free entry as long as the stay does not exceed 30 days, and the traveller holds a valid ordinary passport. The purpose of the visit is what counts here, not the type of invitation.",
+      "claim_zh": "参加体育赛事、会展、研学活动（夏/冬令营）且在华停留不超过 30 天的人员属于免签范围，但须持有效普通护照。判定看的是来访事由，不是邀请函的类型。",
+      "value": "sports events, exhibitions, study camps",
+      "unit": "covered visit purposes (30 days max)",
+      "figure": "sports events, exhibitions, study camps covered visit purposes (30 days max)",
+      "source": {
+        "name": "Chinese Visa Application Service Center — Unilateral Visa-Free Policy FAQ (中国签证申请服务中心·单方面免签政策常见问题解答)",
+        "url": "https://visaforchina.cn/BOM4_ZH/tongzhigonggao/553118093870764079.html"
+      },
+      "checked_on": "2026-11-23",
+      "recheck_by": "2026-12-31",
+      "added_from": "db-backfill",
+      "db_fact_id": 308
+    },
+    {
+      "id": 37,
+      "topic": "entry",
+      "claim_en": "Staying beyond 30 days is not an extension of the visa-free stay: the FAQ directs anyone who plans to stay longer to obtain a visa from a Chinese embassy or consulate beforehand. If a genuine reason to stay longer arises after arrival, the traveller must apply to the exit-entry administration of the public security authority for a stay permit.",
+      "claim_zh": "停留超过 30 天不属于免签停留的延期：问答明确，拟在华停居留超过 30 日者应事先在中国驻外使领馆办理与来华事由相符的签证；入境后因合理正当事由需继续停留的，应向公安机关出入境管理机构申请办理停留证件。",
+      "value": "visa in advance, or stay permit after arrival",
+      "unit": "route to stay beyond 30 days",
+      "figure": "visa in advance, or stay permit after arrival route to stay beyond 30 days",
+      "source": {
+        "name": "Chinese Visa Application Service Center — Unilateral Visa-Free Policy FAQ (中国签证申请服务中心·单方面免签政策常见问题解答)",
+        "url": "https://visaforchina.cn/BOM4_ZH/tongzhigonggao/553118093870764079.html"
+      },
+      "checked_on": "2026-11-23",
+      "recheck_by": "2026-12-31",
+      "added_from": "db-backfill",
+      "db_fact_id": 312
     }
   ]
 }
