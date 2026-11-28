@@ -82,7 +82,9 @@ Two requests, both about accuracy rather than credit:
 
 ## License
 
-Data and text: **CC BY 4.0** — use it commercially, remix it, mirror it, fold it into a dataset; attribution as above is the only condition. See [LICENSE](LICENSE).
+**Jiu's Sharing Station Data Use License (JSS-DUL) v1.0** - see [LICENSE](LICENSE).
+
+Free for search-engine indexing and short, credited quotes (up to 20 facts). Bulk download, republication under another domain, commercial use, and AI-model training require our prior written permission. Open an issue here or email you@jiunotes.top to ask.
 
 ## Contributing
 
